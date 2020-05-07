@@ -1,0 +1,30 @@
+.foodCard {
+    display: flex;
+    border: 0.5em solid rgb(118, 118, 219);
+    margin: 1em;
+    justify-content: center;
+    padding: 1em;
+    background-color: rgb(22, 28, 85);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 255, 255);
+}
+
+.foodParent {
+    display: flex;
+    justify-content: flex-start;
+    background-color: rgb(14, 82, 102);
+    flex-wrap: wrap;
+    border: .25em solid rgb(104, 105, 107);
+    margin: 1em;
+    padding: 1em;
+}
+
+.bigParent {
+    display: flex;
+    justify-content: center;
+
+}
+
+#menuBtn {
+    color: rgb(20, 214, 240);
+}
